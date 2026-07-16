@@ -1,32 +1,25 @@
-# React + TypeScript + Vite
+# AetherScribe AI Story Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+AetherScribe is an AI-powered web application that helps users craft creative stories, brainstorm plot ideas, and overcome writer's block. Built with React, TypeScript, and Vite.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the live project here: [https://niveditha-sury.github.io/AetherScribe-AI-Story-Generator/](https://niveditha-sury.github.io/AetherScribe-AI-Story-Generator/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎨 Features
+*   **Creative Writing Assistance:** Generate unique story prompts or full story segments.
+*   **Responsive Design:** Fully mobile-friendly interface for writing on the go.
+*   **Customizable Prompts:** Tailor the AI output by specifying genres, themes, or characters.
 
-## React Compiler
+## 🛠 Tech Stack
+*   **Framework:** [React](https://react.dev/)
+*   **Language:** [TypeScript](https://www.typescriptlang.org/)
+*   **Build Tool:** [Vite](https://vitejs.dev/)
+*   **Styling:** [CSS/Tailwind - Update this if needed]
+*   **Deployment:** GitHub Pages
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 How to Run Locally
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
-
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Niveditha-Sury/AetherScribe-AI-Story-Generator.git](https://github.com/Niveditha-Sury/AetherScribe-AI-Story-Generator.git)
+   cd AetherScribe-AI-Story-Generator
