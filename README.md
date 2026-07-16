@@ -7,7 +7,6 @@ Check out the live project here: [https://niveditha-sury.github.io/AetherScribe-
 
 ## 🎨 Features
 *   **Creative Writing Assistance:** Generate unique story prompts or full story segments.
-*   **Responsive Design:** Fully mobile-friendly interface for writing on the go.
 *   **Customizable Prompts:** Tailor the AI output by specifying genres, themes, or characters.
 
 ## 🛠 Tech Stack
